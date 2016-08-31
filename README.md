@@ -13,6 +13,6 @@ Eclipse library project based on:<br/>
 
 **SVN checkout:**
 - _File > Import... > Team > Team Project Set > URL:_<br/>
-  https://raw.githubusercontent.com/dandar3/android-support-v4/24.1.1/.projectset
+  https://raw.githubusercontent.com/dandar3/android-support-v7-palette/24.1.1/.projectset
 - _File > Import... > SVN > Project from SVN > Create a new repository location > URL:_<br/> 
   https://github.com/dandar3/android-support-v7-palette/tags/24.1.1
